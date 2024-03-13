@@ -3,18 +3,24 @@
 ### Before Profiling
 
 /all-student :
+![all-student](/images/allStudent_before.png)
 
 /all-student-name :
+![all-student-name](/images/studentName_before.png)
 
 /highest-gpa :
+![highet-gpa](/images/gpa_before.png)
 
 ### After Profiling
 
 /all-student :
+![all-student](/images/allStudent_after.png)
 
 /all-student-name :
+![all-student-name](/images/studentName_after.png)
 
 /highest-gpa :
+![highet-gpa](/images/gpa_after.png)
 
 ## - Reflection- 
 
